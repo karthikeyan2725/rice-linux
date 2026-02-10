@@ -1,8 +1,5 @@
-## Foreground:
+## Screenshot:
 ![fg](images/foreground.png)
-
-## Background:
-![bg](images/background.png)
 
 ### Environment variables
 ```sh
