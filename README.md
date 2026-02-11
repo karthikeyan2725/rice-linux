@@ -8,6 +8,9 @@
 * Waybar : Status Bar
 * polkit-kde : Authentication
 * nmcli : Connect to WIFI
+* nvim : Text Editor
+    * Mason + Clangd
+    * TreeSitter cpp
 
 ### Environment variables
 ```sh
